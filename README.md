@@ -14,3 +14,11 @@ Pastel de banana com canela
 
 Pastel de chocolate
 
+## Bebidas
+
+Caldo de Cana
+
+Suco de Laranja
+
+Suco de Maracujá
+
