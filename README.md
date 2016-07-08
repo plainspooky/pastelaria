@@ -10,9 +10,9 @@ Conheça as opções do nosso cardápio!
 
 ## Pastéis doces
 
-Pastel de banana com canela
+[Pastel de banana com canela](pastel_de_banana_com_canela.md)
 
-Pastel de chocolate
+[Pastel de chocolate](pastel_de_chocolate.md)
 
 ## Bebidas
 
