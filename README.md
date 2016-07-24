@@ -1,4 +1,4 @@
-# ![](pastel_frito.png) Pastelaria
+# ![](https://github.com/plainspooky/pastelaria/raw/master/desenho_do_pastel.png) Pastelaria
 
 Conheça as opções do nosso cardápio!
 
