@@ -1,4 +1,4 @@
-# Pastelaria
+# ![](pastel_frito.png) Pastelaria
 
 Conheça as opções do nosso cardápio!
 
@@ -21,4 +21,3 @@ Caldo de Cana
 Suco de Laranja
 
 Suco de Maracujá
-
