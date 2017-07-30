@@ -8,6 +8,8 @@ Conheça as opções do nosso cardápio!
 
 [Pastel de queijo](pastel_de_queijo.md)
 
+[Pastel de ricota](pastel_de_ricota.md)
+
 ## Pastéis doces
 
 [Pastel de banana com canela](pastel_de_banana_com_canela.md)
